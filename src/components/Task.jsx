@@ -16,7 +16,7 @@ const Task = ({ task, onDelete, onToggle }) => {
 };
 
 const faTimesStyle = {
-  color: 'red',
+  color: '#c0392b',
   cursor: 'pointer',
 };
 
